@@ -1,0 +1,7 @@
+@import '@astrouxds/astro-web-components/dist/astro-web-components/astro-web-components.css';
+
+span.rux-icon-text {
+  vertical-align: middle;
+  padding-top: 0.5rem;
+  padding-left: 0.5rem;
+}
